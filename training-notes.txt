@@ -39,7 +39,16 @@ git config --global user.name "Your Name"
 
 git commit -m "Commit pertama"
 
-### buat project di github.com
+### buat pro### LAB 2
+
+- fork repository nacita [url]
+- clone repo https://github.com/[username]/[namarepo]
+- buat branch baru dengan nama masing-masing dari branch master
+- edit berkas README.md dan tambahkan nama dan jurusan, buat link yang mengarah ke ke akun github masing-masing
+- commit perubahan di lokal, lalu push ke repository
+- buat pull request ke repo nacita [url]
+- tunggu hingga repository akan direview dan di-merge oleh trainer
+ject di github.com
 
 + -> New repository
 
@@ -60,9 +69,28 @@ git push -u origin master
 
 git status
 git diff
-git add README.md
+git add README.mdgit commit -m "tambahkan nama"
 git status
 git commit -m "tambahkan nama"
 git push origin master
 
+### percabangan (branching)
+
+https://learngitbranching.js.org/ 
+
+git status
+git branch -v
+git log
+git branch -v
+git checkout -b develop
+
+### LAB 2
+
+- fork repository nacita https://github.com/nacita/git-training
+- clone repo https://github.com/[username]/[namarepo]
+- buat branch baru dengan nama masing-masing dari branch master
+- edit berkas README.md dan tambahkan nama dan jurusan, buat link yang mengarah ke ke akun github masing-masing
+- commit perubahan di lokal, lalu push ke repository
+- buat pull request ke repo nacita [url]
+- tunggu hingga repository akan direview dan di-merge oleh trainer
 
