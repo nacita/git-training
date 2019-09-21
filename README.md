@@ -17,3 +17,4 @@
 - [zohal alfinas saum surais](https://github.com/zohalalfinas)
 - [Muhammad Wildan](https://https://github.com/wilapdantop)
 - [Abizar Nazha Rizky](https://github.com/AbiNazha)
+- [Muhammad Alaikal Fatoni](https://github.com/onixalaikal)
