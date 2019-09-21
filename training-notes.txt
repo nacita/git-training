@@ -48,6 +48,11 @@ git commit -m "Commit pertama"
 git remote add origin https://github.com/samsulmaarif/project1.git
 git push -u origin master
 
+### Langkah update
+git status
+git diff
+git commit -am "Pesan anda"
+git push origin master
 
 
 
