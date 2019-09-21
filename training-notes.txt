@@ -7,6 +7,10 @@
     -> centos : sudo yum install git
     -> lainnya : menyesuaikan
 
+
+- notes : https://github.com/nacita/git-training
+
+
 ### panduan git
 git
 git help commit [keluar dengan "q"]
@@ -35,7 +39,16 @@ git config --global user.name "Your Name"
 
 git commit -m "Commit pertama"
 
-### buat project di github.com
+### buat pro### LAB 2
+
+- fork repository nacita [url]
+- clone repo https://github.com/[username]/[namarepo]
+- buat branch baru dengan nama masing-masing dari branch master
+- edit berkas README.md dan tambahkan nama dan jurusan, buat link yang mengarah ke ke akun github masing-masing
+- commit perubahan di lokal, lalu push ke repository
+- buat pull request ke repo nacita [url]
+- tunggu hingga repository akan direview dan di-merge oleh trainer
+ject di github.com
 
 + -> New repository
 
@@ -48,12 +61,37 @@ git commit -m "Commit pertama"
 git remote add origin https://github.com/samsulmaarif/project1.git
 git push -u origin master
 
-### Langkah update
+
+### lakukan perubahan
+- edit file README.md, 
+- tambahkan seperti contoh, lalu simpan
+
+- kembali ke git bash, 
+
 git status
 git diff
-git commit -am "Pesan anda"
+git add README.mdgit commit -m "tambahkan nama"
+git status
+git commit -m "tambahkan nama"
 git push origin master
 
+### percabangan (branching)
 
+https://learngitbranching.js.org/ 
 
+git status
+git branch -v
+git log
+git branch -v
+git checkout -b develop
+
+### LAB 2
+
+- fork repository nacita https://github.com/nacita/git-training
+- clone repo https://github.com/[username]/[namarepo]
+- buat branch baru dengan nama masing-masing dari branch master
+- edit berkas README.md dan tambahkan nama dan jurusan, buat link yang mengarah ke ke akun github masing-masing
+- commit perubahan di lokal, lalu push ke repository
+- buat pull request ke repo nacita [url]
+- tunggu hingga repository akan direview dan di-merge oleh trainer
 
