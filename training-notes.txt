@@ -7,6 +7,10 @@
     -> centos : sudo yum install git
     -> lainnya : menyesuaikan
 
+
+- notes : https://github.com/nacita/git-training
+
+
 ### panduan git
 git
 git help commit [keluar dengan "q"]
@@ -48,7 +52,17 @@ git commit -m "Commit pertama"
 git remote add origin https://github.com/samsulmaarif/project1.git
 git push -u origin master
 
+### lakukan perubahan
+- edit file README.md, 
+- tambahkan seperti contoh, lalu simpan
 
+- kembali ke git bash, 
 
+git status
+git diff
+git add README.md
+git status
+git commit -m "tambahkan nama"
+git push origin master
 
 
