@@ -6,5 +6,5 @@
 - [Wisnu Dewa Saputra] (https://github.com/WisnuDs)
 - [Dida Arda](https://github.com/evaleries)
 - [Mokhamad Asif](https://github.com/masif088)
-
+- [Yuli Puspita Dewi](https://github.com/Yuliabcd/project1)
 
