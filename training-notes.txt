@@ -1,0 +1,54 @@
+### Git LAB 1
+
+- Install Git 
+  - Windows -> https://git-scm.com/download/win
+  - Linux 
+    -> ubuntu : sudo apt install git
+    -> centos : sudo yum install git
+    -> lainnya : menyesuaikan
+
+### panduan git
+git
+git help commit [keluar dengan "q"]
+
+### buat project
+pwd
+ls
+mkdir project1
+ls
+cd project1/
+pwd
+
+touch README.md
+ls
+echo "# latihan git 1" > README.md
+cat README.md
+
+### inisiasi git
+git init
+git status
+git add README.md
+git commit -m "Commit pertama"
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+git commit -m "Commit pertama"
+
+### buat project di github.com
+
++ -> New repository
+
+- isikan repository name
+- isikan deskripsi (tidak harus)
+- pastikan dibuat public
+- create repository
+
+### add remote
+git remote add origin https://github.com/samsulmaarif/project1.git
+git push -u origin master
+
+
+
+
+
