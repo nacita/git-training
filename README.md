@@ -6,5 +6,6 @@
 - [Wisnu Dewa Saputra] (https://github.com/WisnuDs)
 - [Dida Arda](https://github.com/evaleries)
 - [Mokhamad Asif](https://github.com/masif088)
+- [Reka Putri Puspita](https://github.com/Rekaputri/latihan-1)
 
 
