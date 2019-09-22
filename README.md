@@ -2,7 +2,6 @@
 
 silakan tuliskan nama di sini dengan format \[Nama Lengkap\]\(url github\)
 
-- [Samsul Ma'arif](https://github.com/samsulmaarif)
 - [x] [Samsul Ma'arif](https://github.com/samsulmaarif)
 - [X] [Cahyadi Setia Phanatagama](https://github.com/phanatagama)
 - [ ] [Wisnu Dewa Saputra](https://github.com/WisnuDs)
