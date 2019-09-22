@@ -96,6 +96,11 @@ git checkout -b develop
 - buat pull request ke repo nacita https://github.com/nacita/git-training
 - tunggu hingga repository akan direview dan di-merge oleh trainer
 
+- update repo dari upstream
+
+git pull https://github.com/nacita/git-training
+
+
 ### LAB 3 Advance Branching
 
 - buat branch bernama develop
@@ -106,9 +111,11 @@ git checkout -b develop
 - merge dari fitur9 ke develop
 
 ### lab Final
-- buat repository di github dengan format [username].github.io
-- buat project di lokal
-- tambahkan berkas index.html; commit
+- buat kelompok minimal 3 orang, tentukan team leadernya
+- team leader membuat repo di akunnya, isi file README.md atau index.html
+- anggota team fork repo tersebut, dan lakukan clone ke laptop masing-masing
+- buat branch dengan nama masing-masing di lokal
+- silakan mulai berkolaborasi dengan melakukan PR ke repo leader dari branch masing-masing
 - tambahkan konten berupa NIM, nama, kota asal; commit
 - tambahkan kesan-kesan mengikuti workshop ini; lalu commit lagi
 - tambahkan file css untuk mempercantik tampilan 
@@ -117,6 +124,7 @@ git checkout -b develop
 - proyek harus menerapkan git workflow yang telah ditentukan
 - proyek setidaknya harus memiliki 5 commit 
 - proyek harus menampilkan data diri sesuai ketentuan lab, hindari menampilkan data-data pribadi berupa tempat tanggal lahir maupun nomor HP
+- proyek merupakan pekerjaan sendiri
 
 
 
