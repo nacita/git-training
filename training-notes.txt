@@ -39,7 +39,7 @@ git config --global user.name "Your Name"
 
 git commit -m "Commit pertama"
 
-### buat pro### LAB 2
+### LAB 2
 
 - fork repository nacita [url]
 - clone repo https://github.com/[username]/[namarepo]
@@ -61,6 +61,7 @@ ject di github.com
 git remote add origin https://github.com/samsulmaarif/project1.git
 git push -u origin master
 
+
 ### lakukan perubahan
 - edit file README.md, 
 - tambahkan seperti contoh, lalu simpan
@@ -69,7 +70,8 @@ git push -u origin master
 
 git status
 git diff
-git add README.mdgit commit -m "tambahkan nama"
+git add README.md
+git commit -m "tambahkan nama"
 git status
 git commit -m "tambahkan nama"
 git push origin master
@@ -84,13 +86,37 @@ git log
 git branch -v
 git checkout -b develop
 
-### LAB 2
+### LAB 2 Kolaborasi
 
 - fork repository nacita https://github.com/nacita/git-training
-- clone repo https://github.com/[username]/[namarepo]
+- clone repo https://github.com/[username]/git-training
 - buat branch baru dengan nama masing-masing dari branch master
-- edit berkas README.md dan tambahkan nama dan jurusan, buat link yang mengarah ke ke akun github masing-masing
+- edit berkas README.md dan tambahkan nama, buat link yang mengarah ke ke akun github masing-masing dengan format \[nama lengkap\]\(url profil github\)
 - commit perubahan di lokal, lalu push ke repository
-- buat pull request ke repo nacita [url]
+- buat pull request ke repo nacita https://github.com/nacita/git-training
 - tunggu hingga repository akan direview dan di-merge oleh trainer
+
+### LAB 3 Advance Branching
+
+- buat branch bernama develop
+- buat branch bernama fitur9
+- checkout ke branch develop, tambahkan teks apa aja, boleh dari catatan ini
+- checkout ke branch fitur9, sama
+- kembali ke branch develop
+- merge dari fitur9 ke develop
+
+### lab Final
+- buat repository di github dengan format [username].github.io
+- buat project di lokal
+- tambahkan berkas index.html; commit
+- tambahkan konten berupa NIM, nama, kota asal; commit
+- tambahkan kesan-kesan mengikuti workshop ini; lalu commit lagi
+- tambahkan file css untuk mempercantik tampilan 
+
+#### ketentuan lab final
+- proyek harus menerapkan git workflow yang telah ditentukan
+- proyek setidaknya harus memiliki 5 commit 
+- proyek harus menampilkan data diri sesuai ketentuan lab, hindari menampilkan data-data pribadi berupa tempat tanggal lahir maupun nomor HP
+
+
 
