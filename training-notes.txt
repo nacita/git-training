@@ -39,7 +39,7 @@ git config --global user.name "Your Name"
 
 git commit -m "Commit pertama"
 
-### buat pro### LAB 2
+### LAB 2
 
 - fork repository nacita [url]
 - clone repo https://github.com/[username]/[namarepo]
@@ -105,6 +105,18 @@ git checkout -b develop
 - kembali ke branch develop
 - merge dari fitur9 ke develop
 
+### lab Final
+- buat repository di github dengan format [username].github.io
+- buat project di lokal
+- tambahkan berkas index.html; commit
+- tambahkan konten berupa NIM, nama, kota asal; commit
+- tambahkan kesan-kesan mengikuti workshop ini; lalu commit lagi
+- tambahkan file css untuk mempercantik tampilan 
+
+#### ketentuan lab final
+- proyek harus menerapkan git workflow yang telah ditentukan
+- proyek setidaknya harus memiliki 5 commit 
+- proyek harus menampilkan data diri sesuai ketentuan lab, hindari menampilkan data-data pribadi berupa tempat tanggal lahir maupun nomor HP
 
 
 
